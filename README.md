@@ -1,4 +1,7 @@
-# iot_agus
-2 linea modificada
-TRES
-CUATROCH
+<!DOCTYPE html>
+<html>
+<body>
+<h1>IOT PAGE</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
